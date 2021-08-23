@@ -1,3 +1,3 @@
 # first-repo
-training repo
+training repo. 
 Hello world
