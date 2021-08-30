@@ -1,3 +1,2 @@
 # first-repo
-training repo. 
-Hello world
+this is my firt commit
